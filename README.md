@@ -12,7 +12,7 @@ Download Pizza Sales report.pbix
 Download HR report.pbix
 
 4️⃣ Financial Dashboard
-Download Financial report.pbix
+[Download Financial report.pbix](https://github.com/aniket9407/Business-analyst-internship/raw/main/Financial%20report.pbix)
 
 🔹 How to Use
 Click on the download link for any dashboard above.
