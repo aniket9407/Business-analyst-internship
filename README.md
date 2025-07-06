@@ -10,7 +10,7 @@ This repository contains four Power BI dashboards I created during my virtual in
 Download Pizza Sales report.pbix
 
 3️⃣ HR Dashboard
-Download HR report.pbix
+[Download HR report.pbix](https://github.com/aniket9407/Business-analyst-internship/raw/main/Hr%20report.pbix)
 
 4️⃣ Financial Dashboard
 [Download Financial report.pbix](https://github.com/aniket9407/Business-analyst-internship/raw/main/Financial%20report.pbix)
