@@ -3,11 +3,10 @@ This repository contains four Power BI dashboards I created during my virtual in
 
 📁 Dashboards Included
 1️⃣ Supply Chain Management Dashboard
-[[Download Supply Chain Management report.pbix]https://github.com/aniket9407/Business-analyst-internship/raw/main/Supply%20Chain%20Management%20report.pbix
-](https://github.com/aniket9407/Business-analyst-internship/raw/main/Supply%20Chain%20Management%20report.pbix)
+Download supply chain management.pbix
 
 2️⃣ Pizza Sales Dashboard
-Download Pizza Sales report.pbix
+[Download Pizza Sales report.pbix](https://github.com/aniket9407/Business-analyst-internship/raw/main/pizza%20sales%20%20report.pbix)
 
 3️⃣ HR Dashboard
 [Download HR report.pbix](https://github.com/aniket9407/Business-analyst-internship/raw/main/Hr%20report.pbix)
